@@ -100,7 +100,7 @@ Schema: Enter dev. This is the Redshift database you want to connect to.
 * Check the **Log** of Run_data_quality_checks to make sure tables are loaded successfully.
 
 The sample result should look like:
-![Check](./Quality check.PNG)
+![Check](./Quality_check.PNG)
 
 
 ## Example Queries and Results
